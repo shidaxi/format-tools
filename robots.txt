@@ -1,0 +1,6 @@
+Sitemap: https://jsonformatter.org/sitemap.xml
+Sitemap: https://jsonformatter.org/sitemap_index.xml
+Sitemap: https://jsonformatter.org/sitemap.xml.gz
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
